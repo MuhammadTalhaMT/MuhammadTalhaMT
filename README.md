@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**MuhammadTalhaMT/MuhammadTalhaMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hello, I'm Muhammad Talha!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **AI Engineer** dedicated to crafting innovative solutions using artificial intelligence. 🚀
+
+### 🔧 What I Do:
+- **AI Solutions**: Developing intelligent systems to tackle complex challenges. 🤖
+- **Previous Experience**: Built immersive experiences with **FiveM Servers** scripting. 🎮
+- **Cool Projects**: Currently working on exciting new ventures! 🌟
+
+### 🛠️ Skills:
+- AI & Machine Learning
+- Automation Tools
+- Scripting Languages (Lua, Python, etc.)
+- Problem Solving
+
+### 🌱 Currently Learning:
+- Advanced AI Techniques
+- Cloud Computing
+
+### 💬 Let's Connect!
+I’m always open to collaboration or discussions about AI. Feel free to reach out! 
