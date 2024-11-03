@@ -1,23 +1,14 @@
+# 👋 Hi there! I'm Talha
 
+I'm an **AI Engineer** passionate about creating innovative solutions using AI. 🚀
 
-## 👋 Hello, I'm Muhammad Talha!
-
-I'm an **AI Engineer** dedicated to crafting innovative solutions using artificial intelligence. 🚀
-
-### 🔧 What I Do:
-- **AI Solutions**: Developing intelligent systems to tackle complex challenges. 🤖
-- **Previous Experience**: Built immersive experiences with **FiveM Servers** scripting. 🎮
-- **Cool Projects**: Currently working on exciting new ventures! 🌟
-
-### 🛠️ Skills:
-- AI & Machine Learning
+## 🔧 Skills
+- AI & Machine Learning 🤖
 - Automation Tools
-- Scripting Languages (Lua, Python, etc.)
-- Problem Solving
+- Scripting Languages (Lua, Python)
 
-### 🌱 Currently Learning:
-- Advanced AI Techniques
-- Cloud Computing
+## 🌱 Currently Working On
+- Exciting AI projects!
 
-### 💬 Let's Connect!
-I’m always open to collaboration or discussions about AI. Feel free to reach out! 
+## 💬 Let's Connect!
+Feel free to reach out for collaboration or discussions!
