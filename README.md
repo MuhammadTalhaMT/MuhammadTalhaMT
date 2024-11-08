@@ -8,7 +8,12 @@ I'm an **AI Engineer** passionate about creating innovative solutions using AI. 
 - Scripting Languages (Lua, Python)
 
 ## 🌱 Currently Working On
-- Exciting AI projects!
+- AI Tweet Replier
+- AI Tweet Writer
+- Twitter to LinkedIn Automation (No Hosting Required)
+- AI Email Personalization
+- Instagram Reel Scripter
+- Instagram Reels Anaylzer 
 
 ## 💬 Let's Connect!
 Feel free to reach out for collaboration or discussions!
