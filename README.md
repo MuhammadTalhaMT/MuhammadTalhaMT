@@ -47,7 +47,6 @@ I build production AI products end-to-end — SaaS platforms, MCP tooling, autom
 ### 🔌 AI Tooling & MCP
 | Project | What it is |
 |---|---|
-| **Vibe Blocks MCP** | Connects Roblox Studio to AI editors (Cursor, Claude, Windsurf) via Model Context Protocol for AI-assisted game dev |
 | **claude-intercom** | Two-way communication bridge between Claude Code sessions |
 | **Discord Gemini Bot** | AI-powered Discord bot built on Gemini |
 
