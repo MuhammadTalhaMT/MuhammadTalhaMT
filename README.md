@@ -58,17 +58,6 @@ Flutter and Expo (React Native) apps — meeting tools, daily-log trackers, clie
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadTalhaMT&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTalhaMT&theme=tokyonight" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MuhammadTalhaMT&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
----
 
 ## 💬 Let's Connect
 
