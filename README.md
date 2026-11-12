@@ -1,64 +1,38 @@
-# Hi, I'm Muhammad Talha 👋
+<a href="https://aiwithtalha.com"><img src="https://aiwithtalha.com/opengraph-image" alt="Muhammad Talha: I build software that does real work." width="100%"></a>
 
-**AI Engineer · Full Stack Developer · AI SaaS Builder**
+# Muhammad Talha
 
-I build production AI products end-to-end — SaaS platforms, MCP tooling, automation pipelines, mobile apps, and game systems.
+Full-stack and AI developer. I build AI products, native apps, systems tools and games, end to end. Coding since age 10, freelancing since 2020.
 
----
+**[aiwithtalha.com](https://aiwithtalha.com)** · [X @TalhaShips](https://x.com/TalhaShips) · [Email](mailto:muhammadtalha12347777@gmail.com)
 
-## 🛠️ Tech Stack
+## Live work
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat-square)
-
----
-
-## 🚀 Featured Work
-
-### 🧠 AI SaaS Platforms
-| Project | What it is | Stack |
+| | What it is | Link |
 |---|---|---|
-| **ExamPal** | AI-assisted exam preparation platform | Python · Next.js |
-| **HR SaaS** | AI-powered resume screening, job postings & applicant tracking | Next.js · AI screening |
-| **Onsight Analytics** | Speech-to-text analytics dashboard with AI insights | FastAPI · Next.js · AssemblyAI · DeepSeek |
-| **Stages** | Event management & ticketing platform with payments | NestJS · Prisma · Stripe |
+| **ExamPal** | Students sit a real IGCSE, O Level or A Level past paper by hand, and AI marks their working against the real mark scheme. | [tryexampal.com](https://tryexampal.com) |
+| **Stages** | Events platform for nightlife and live music: venues, event listings, ticket booking and organiser accounts. | [stages.mx](https://stages.mx) |
+| **Yorker League** | Full-stadium cricket on Roblox: batting, pace, swing and spin, tournaments, online 1v1, DRS ball tracking. | [Play on Roblox](https://www.roblox.com/games/112100295945244/Yorker-League) |
+| **Pelines Tequila & Mezcal** | Restaurant website and a Flutter ordering app for iOS and Android, for two locations. | [pelinesmexicanrestaurant.com](https://pelinesmexicanrestaurant.com) |
 
-### 🔌 AI Tooling & MCP
-| Project | What it is |
+## Open source
+
+| Repo | What it does |
 |---|---|
-| **claude-intercom** | Two-way communication bridge between Claude Code sessions |
-| **Discord Gemini Bot** | AI-powered Discord bot built on Gemini |
+| [**claude-intercom**](https://github.com/MuhammadTalhaMT/claude-intercom) | Two-way messaging between Claude Code sessions, built on the Channels API. |
+| [**hop**](https://github.com/MuhammadTalhaMT/hop) | One keyboard and mouse across a Mac and a Windows PC, still working after the Mac locks or sleeps. Rust. |
+| [**agent-eta**](https://github.com/MuhammadTalhaMT/agent-eta) | Realistic time estimates for Claude Code work, learned from your own sessions, locally. |
+| [**mt-safezones**](https://github.com/MuhammadTalhaMT/mt-safezones) and other `mt-*` scripts | FiveM resources from my game-server years: safezones, gear animations, jobs, AI support, UI redesigns. |
 
-### ⚙️ Automation
-Content pipelines that run end-to-end without hosting: YouTube workflow automation (URL → screenshots → PDF reports), Instagram reels scripting & analysis, AI tweet writing/replying, Twitter→LinkedIn cross-posting, and AI email personalization.
+## What I work in
 
-### 📱 Mobile & 🎮 Game Dev
-Flutter and Expo (React Native) apps — meeting tools, daily-log trackers, client apps. Plus FiveM systems in Lua (safezones, HUDs, AI support, QBCore/ESX UI redesigns) and Roblox tooling.
+| Line | Tools |
+|---|---|
+| AI & web | TypeScript, Next.js, React, Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL, OpenAI and Anthropic APIs, MCP |
+| Native apps | SwiftUI, WidgetKit, Flutter, Expo |
+| Systems | Rust, Tokio |
+| Games & bots | Luau and Roblox Studio, Lua for FiveM, Discord.js |
 
----
+## Work with me
 
-
-## 💬 Let's Connect
-
-Open to collaboration on AI SaaS, MCP tooling, automation, and full-stack projects — reach out via GitHub!
+I take on AI products, apps and automation for clients. Tell me what you're building at **[aiwithtalha.com](https://aiwithtalha.com/#contact)** and I'll reply with a plan.
